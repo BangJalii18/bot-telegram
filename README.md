@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠️ Cara Install
+## 🛠️  Install Bot Telegram
 
 ```bash
 cd /root

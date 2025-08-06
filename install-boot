@@ -8,7 +8,7 @@
 # dan meningkatkan keandalan instalasi.
 
 # --- Konfigurasi ---
-REPO_URL="https://github.com/hokagelegend9999/Telegram-bot.git"
+REPO_URL="https://github.com/BangJalii18/bot-telegram.git"
 APP_DIR="/opt/hokage-bot"
 SERVICE_FILE="/etc/systemd/system/hokage-bot.service"
 SUDOERS_FILE="/etc/sudoers.d/hokage-bot"
